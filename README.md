@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AntiTheft
+# 👋 Hi, I’m Ant
 🌱 I’m currently learning React JS
 
 <!---
