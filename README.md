@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Anthony
-A Front End Developer from NYC.
+A Front End Developer.
 
 ![Ant's GitHub stats](https://github-readme-stats.vercel.app/api?username=antitheft&theme=tokyonight&hide=prs,stars,contribs,issues)
 
